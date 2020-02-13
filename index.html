@@ -29,25 +29,47 @@
       <h2>
         Members:
       </h2>
-      
+
       <input
-    data-dh-property-method-id="013"
-    data-dh-property-input-name="simpleMessage"
-/>
+        data-dh-property-method-id="013"
+        data-dh-property-input-name=""
+        placeholder="Member Address(address)"
+      />
+      <button data-dh-property-method-id="013" data-dh-property-invoke="true">
+        Check Member
+      </button>
+
       <span data-dh-property-method-id="013" data-dh-property-outputs="true">
         ...
       </span>
     </div>
     
     
-    
-    
-    
-    
-    
-    
-    
-    
+        <!-- Creating a Method Instance for members -->
+    <div
+      data-dh-feature="customContract"
+      data-dh-property-contract-name="publicmoloch"
+      data-dh-property-method-name="members"
+      data-dh-property-method-id="013"
+    >
+      <h2>
+        Members:
+      </h2>
+
+      <input
+        data-dh-property-method-id="013"
+        data-dh-property-input-name=""
+        placeholder="Member Address(address)"
+      />
+      <button data-dh-property-method-id="013" data-dh-property-invoke="true">
+        Check Member
+      </button>
+
+      <span data-dh-property-method-id="013" data-dh-property-outputs="true">
+        ...
+      </span>
+    </div>
+
     <!-- Creating a Method Instance for periodDuration -->
     <div
       data-dh-feature="customContract"
@@ -282,18 +304,16 @@
         placeholder="details(string)"
       />
 
-<button data-dh-property-method-id="012" data-dh-property-invoke="true">
+      <button data-dh-property-method-id="012" data-dh-property-invoke="true">
         Submit Proposal
       </button>
-      <br/>
-            
+      <br />
+
       Transaction Hash:
       <span data-dh-property-method-id="012" data-dh-property-outputs="true">
         ...
       </span>
     </div>
-    
-    
 
     <button data-dh-feature="network" data-dh-property-enable="true">
       Enable Web3
