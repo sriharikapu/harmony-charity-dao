@@ -1,12 +1,11 @@
-Welcome to Glitch
+Welcome to DappHero! This is a MolochDao mini-example
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+The Moloch contract this this example is specifically connected to is: 
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+https://etherscan.io/address/0x0372f3696fa7dc99801f435fd6737e57818239f2#code
 
-Find out more [about Glitch](https://glitch.com/about).
-
+An address you can use for basic testing is: 
 
 Your Project
 ------------

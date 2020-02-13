@@ -29,7 +29,9 @@
       <h2>
         Members:
       </h2>
-
+      <h3>
+        (Hint, try address: 0x865c2F85C9fEa1C6Ac7F53de07554D68cB92eD88)
+      </h3>
       <input
         data-dh-property-method-id="013"
         data-dh-property-input-name=""
@@ -39,33 +41,77 @@
         Check Member
       </button>
 
-      <span data-dh-property-method-id="013" data-dh-property-outputs="true">
-        ...
-      </span>
+      <div>
+        DelegateKey:
+        <span
+          data-dh-property-method-id="013"
+          data-dh-property-output-name="delegateKey"
+        >
+          ...
+        </span>
+      </div>
+
+      <div>
+        Shares:
+        <span
+          data-dh-property-method-id="013"
+          data-dh-property-output-name="shares"
+        >
+          ...
+        </span>
+      </div>
+
+      <div>
+        Exists:
+        <span
+          data-dh-property-method-id="013"
+          data-dh-property-output-name="exists"
+        >
+          ...
+        </span>
+      </div>
+
+      <div>
+        Highest proposal index in which member voted yes:
+        <span
+          data-dh-property-method-id="013"
+          data-dh-property-output-name="highestIndexYesVote"
+        >
+          ...
+        </span>
+      </div>
     </div>
     
     
-        <!-- Creating a Method Instance for members -->
+
+    <!-- Creating a Method Instance for getMemberProposalVote -->
     <div
       data-dh-feature="customContract"
       data-dh-property-contract-name="publicmoloch"
-      data-dh-property-method-name="members"
-      data-dh-property-method-id="013"
+      data-dh-property-method-name="getMemberProposalVote"
+      data-dh-property-method-id="014"
     >
       <h2>
         Members:
       </h2>
 
       <input
-        data-dh-property-method-id="013"
-        data-dh-property-input-name=""
+        data-dh-property-method-id="014"
+        data-dh-property-input-name="memberAddress"
         placeholder="Member Address(address)"
       />
-      <button data-dh-property-method-id="013" data-dh-property-invoke="true">
+
+      <input
+        data-dh-property-method-id="014"
+        data-dh-property-input-name="proposalIndex"
+        placeholder="Proposal Index(uint256)"
+      />
+      
+      <button data-dh-property-method-id="014" data-dh-property-invoke="true">
         Check Member
       </button>
 
-      <span data-dh-property-method-id="013" data-dh-property-outputs="true">
+      <span data-dh-property-method-id="014" data-dh-property-outputs="true">
         ...
       </span>
     </div>
