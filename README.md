@@ -23,7 +23,9 @@ Awesome toolings made available by mainly **DappHero (dapphero.io)**. Enabled us
 ## Links
  
 github https://github.com/denniswon/harmony-charity-dao
+
 https://dapphero-moloch-dao.glitch.me/: DAO charity campaign proposal page
+
 https://dao-charity-donation.glitch.me/: DAO charity donation per campaign page
 
 ## Video Demo
