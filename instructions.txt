@@ -1,0 +1,17 @@
+- Visit the productionized website url provided.
+
+**https://dapphero-moloch-dao.glitch.me/**: DAO charity campaign proposal page
+
+**https://dao-charity-donation.glitch.me/**: DAO charity donation per campaign page
+
+All smart contracts involved for DAO voting, charity campaign proposal, campaign status control, etc. are deployed and being interacted at **Ethereum Mainnet** level.
+
+Note on campaign status:
+- **Open**: after creation before becoming active prior to meeting the minimum amount of vote
+- **Active**: after campaign meets the minimum amount of staked vote to have its fund become "donatable"
+- **Closed**: After active campaign period is over or the proposed campaign fails to meet the minimum approval from the DAO community) oth on Ethereum mainnet.
+
+Web3 **Metamask** integrated for interacting with smart contracts/sending txns on Ethereum Mainnet
+
+**Social authentication** using google, facebook or github for user signup/login on the platform)
+
