@@ -1,44 +1,38 @@
-**Submitting project to ETHDenver**
+# Submitting project to ETHDenver
  
-Name
-WHAT ARE YOU CALLING IT?
+-Name: WHAT ARE YOU CALLING IT?
  
-- **Harmony Charity DAOs**
+**Harmony Charity DAOs**
  
-Tagline
-WRITE A SHORT, SHARP AND ON POINT DESCRIPTION OF YOUR PROJECT
+- Tagline: WRITE A SHORT, SHARP AND ON POINT DESCRIPTION OF YOUR PROJECT
 
+P2P decentralized charity fundraising platform with campaign quality controlled by DAO voting, and slashing risk exist for potentially malicious fake voter/donator achieve higher level of security.
+ 
+- The problem it solves: DESCRIBE WHAT CAN PEOPLE USE IT FOR, OR HOW IT MAKES EXISTING TASKS EASIER/SAFER E.T.C
 
-- P2P decentralized charity fundraising platform with campaign quality controlled by DAO voting, and slashing risk exist for potentially malicious fake voter/donator achieve higher level of security.
+Introduce penalization/slashing to the DAO donation platform to potential malicious actors on both ends of stakeholders involved in the charity (donators and campaign proposers).
  
-The problem it solves
-DESCRIBE WHAT CAN PEOPLE USE IT FOR, OR HOW IT MAKES EXISTING TASKS EASIER/SAFER E.T.C
+- Challenges we ran into: TELL US ABOUT ANY SPECIFIC BUG OR HURDLE YOU RAN INTO WHILE BUILDING THIS PROJECT. HOW DID YOU GET OVER IT?
  
-- Described above. Introduce penalization/slashing to the DAO donation platform to potential malicious actors on both ends of stakeholders involved in the charity (donators and campaign proposers).
+Awesome toolings made available by mainly **DappHero (dapphero.io)**. Enabled us to build a POC demo to present our idea focusing on the social impact of the project.
  
-Challenges we ran into
-TELL US ABOUT ANY SPECIFIC BUG OR HURDLE YOU RAN INTO WHILE BUILDING THIS PROJECT. HOW DID YOU GET OVER IT?
+- Technologies we used WRITE A COMMA SEPARATED LIST OF TECHNOLOGIES YOU USED IN BUILDING THE PROJECT.
  
-- Awesome toolings made available by mainly **DappHero (dapphero.io)**. Enabled us to build a POC demo to present our idea focusing on the social impact of the project.
- 
-Technologies we used
-WRITE A COMMA SEPARATED LIST OF TECHNOLOGIES YOU USED IN BUILDING THE PROJECT.
- 
-- **DappHero**, **Ethereum**
+**DappHero**, **Ethereum**
 
-Links
-ADD LINKS TO GITHUB, WEBSITE, APP STORE E.T.C OR WHEREVER THE PROJECT CAN BE TESTED LIVE
+- Links: ADD LINKS TO GITHUB, WEBSITE, APP STORE E.T.C OR WHEREVER THE PROJECT CAN BE TESTED LIVE
  
-- github https://github.com/denniswon/harmony-charity-dao
+github https://github.com/denniswon/harmony-charity-dao
 https://dapphero-moloch-dao.glitch.me/: DAO charity campaign proposal page
 https://dao-charity-donation.glitch.me/: DAO charity donation per campaign page
 
-Video Demo
-ADD LINK TO VIDEO DEMOING THE FUNCTIONING OF THE PROJECT
+- Video Demo: ADD LINK TO VIDEO DEMOING THE FUNCTIONING OF THE PROJECT
 
-Instructions to execute your project.
+link_to_video
 
-- Visit the productionized website url provided.
+- Instructions to execute your project.
+
+Visit the productionized website url provided.
 
 **https://dapphero-moloch-dao.glitch.me/**: DAO charity campaign proposal page
 
