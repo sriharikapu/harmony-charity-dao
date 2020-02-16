@@ -1,6 +1,6 @@
 # Submitting project to ETHDenver
  
--Name: WHAT ARE YOU CALLING IT?
+- Name: WHAT ARE YOU CALLING IT?
  
 **Harmony Charity DAOs**
  
