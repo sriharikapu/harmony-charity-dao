@@ -1,36 +1,36 @@
 # Submitting project to ETHDenver
  
-- Name: WHAT ARE YOU CALLING IT?
- 
+## Name
+
 **Harmony Charity DAOs**
  
-- Tagline: WRITE A SHORT, SHARP AND ON POINT DESCRIPTION OF YOUR PROJECT
+## Tagline
 
 P2P decentralized charity fundraising platform with campaign quality controlled by DAO voting, and slashing risk exist for potentially malicious fake voter/donator achieve higher level of security.
  
-- The problem it solves: DESCRIBE WHAT CAN PEOPLE USE IT FOR, OR HOW IT MAKES EXISTING TASKS EASIER/SAFER E.T.C
+## The problem it solves
 
 Introduce penalization/slashing to the DAO donation platform to potential malicious actors on both ends of stakeholders involved in the charity (donators and campaign proposers).
  
-- Challenges we ran into: TELL US ABOUT ANY SPECIFIC BUG OR HURDLE YOU RAN INTO WHILE BUILDING THIS PROJECT. HOW DID YOU GET OVER IT?
+## Challenges we ran into, and how did we get over it
  
 Awesome toolings made available by mainly **DappHero (dapphero.io)**. Enabled us to build a POC demo to present our idea focusing on the social impact of the project.
  
-- Technologies we used WRITE A COMMA SEPARATED LIST OF TECHNOLOGIES YOU USED IN BUILDING THE PROJECT.
+## Technologies we used
  
 **DappHero**, **Ethereum**
 
-- Links: ADD LINKS TO GITHUB, WEBSITE, APP STORE E.T.C OR WHEREVER THE PROJECT CAN BE TESTED LIVE
+## Links
  
 github https://github.com/denniswon/harmony-charity-dao
 https://dapphero-moloch-dao.glitch.me/: DAO charity campaign proposal page
 https://dao-charity-donation.glitch.me/: DAO charity donation per campaign page
 
-- Video Demo: ADD LINK TO VIDEO DEMOING THE FUNCTIONING OF THE PROJECT
+## Video Demo
 
 link_to_video
 
-- Instructions to execute your project.
+## Instructions to execute your project.
 
 Visit the productionized website url provided.
 
