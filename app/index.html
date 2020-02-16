@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<!--  =====================================================================================  -->
+<!-- YOU CAN SAFELY IGNORE THIS CODE   -->
+<!--  =====================================================================================  -->
+<html lang="en">
+  <head><title>A DappHero Donate Button</title>
+    <meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" /></head>
+  <body style="font-family: helvetica;margin: 20px;">
+    <h1 style="font-style: italic; margin: 0em; color: #373fff;">
+      A Donation Button Example Page</h1><p />
+    <!--   This button enables Metamask   -->
+    <button data-dh-feature="network" data-dh-property-enable>
+      Click Here to Enable Ethereum Network!</button>
+<!--  =====================================================================================  -->
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+<!--  ==============================================================================================  -->
+<!--   THIS IS WHERE THE MAGIC HAPPENS!   -->
+<!--  ==============================================================================================  -->
+<!--  ==============================================================================================  -->
+    <div>Donate to our page by using the form below:</div><p/>
+
+<!--  This tag allows the user to define how much ether to donate  -->
+    <input
+      data-dh-feature="network"
+      data-dh-property-transfer="input"
+      data-dh-property-input-name="amount"
+      data-dh-modifier-display-units="ether"
+      placeholder="Amount of ETH"
+    />
+
+<!--   This hidden element defines where to send the ether -->
+    <input
+      data-dh-feature="network"
+      data-dh-property-transfer="input"
+      data-dh-property-input-name="address"
+      value="0x04489f0E3Bd87D5DED39718A905525B47d94bD3a"
+      style="display:none"
+    />
+
+<!--   This button triggers the transaction to be sent to the network   -->
+    <button
+      data-dh-feature="network"
+      data-dh-property-transfer="invoke"
+    >
+      Donate Now!
+    </button>
+<!--  ==============================================================================================  -->
+<!-- End of the Magic -->
+<!--  ==============================================================================================  -->
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!--  =================================================================================  -->
+    <!-- This script tag enables the DappHero Engine -->
+    <!--  =================================================================================  -->
+    <script
+      src="https://package.dapphero.io/main.js"
+      id="dh-apiKey"
+      data-api="1580767497772x353394266303889400"
+    ></script>
+    <!--  =================================================================================  -->
+  </body>
+</html>
