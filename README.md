@@ -12,11 +12,11 @@ P2P decentralized charity fundraising platform with campaign quality controlled 
 
 Introduce penalization/slashing to the DAO donation platform to potential malicious actors on both ends of stakeholders involved in the charity (donators and campaign proposers).
  
-## Challenges we ran into, and how did we get over it
+## Technical challenges, and how they were resolved
  
 Awesome toolings made available by mainly **DappHero (dapphero.io)**. Enabled us to build a POC demo to present our idea focusing on the social impact of the project.
  
-## Technologies we used
+## Technologies used
  
 **DappHero**, **Ethereum**
 
@@ -30,7 +30,7 @@ https://dao-charity-donation.glitch.me/: DAO charity donation per campaign page
 
 link_to_video
 
-## Instructions to execute your project.
+## Instructions for the project
 
 Visit the productionized website url provided.
 
